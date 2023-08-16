@@ -19978,7 +19978,7 @@ img {
   background-color: var(--pink);
 }
 .feature__top {
-  padding-bottom: 65px;
+  padding: 65px 0px;
   border-bottom: 1px solid var(--black);
 }
 @media only screen and (max-width: 767px) {
